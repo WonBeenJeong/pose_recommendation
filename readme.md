@@ -80,7 +80,7 @@ the output path is specified in Line 18
 	$ export LD_PRELOAD=$LD_PRELOAD:/usr/lib/x86_64-linux-gnu/libstdc++.so.6:/usr/lib/x86_64-linux-gnu/libprotobuf.so.9  
 	$ ./run.sh  
 
-############## Composition feature #################
+### Composition feature ##
 * the original [image composition repo](https://github.com/posgraph/coupe.composition-score-calculator)	
 
 	`
